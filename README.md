@@ -1,6 +1,6 @@
 ### Eu sou Luiz Fernando, graduando em ciência da computação e curioso sobre tecnologias🤓.
 
-- 🌱 Estudando: Javascript, mas sempre dou uma olhadinha em tudo.
+- 🌱 Estudando: Flutter, mas sempre dou uma olhadinha em tudo.
 
 <div align="center">
   <a href="https://github.com/lufesilva">
