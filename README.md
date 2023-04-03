@@ -1,7 +1,5 @@
 ### Eu sou Luiz Fernando, graduando em ciência da computação e curioso sobre tecnologias🤓.
 
-- 🌱 Estudando: Flutter, mas sempre dou uma olhadinha em tudo.
-
 <div align="center">
   <a href="https://github.com/lufesilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lufesilva&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
